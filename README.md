@@ -1,8 +1,8 @@
 
 ## 卡片式组织知识
 
-- [**Git**](Git)
-- [**JavaScript**](JavaScript)
+- [**Git**](Git.md)
+- [**JavaScript**](JavaScript.md)
 
 
 
